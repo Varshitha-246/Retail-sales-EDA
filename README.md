@@ -23,7 +23,7 @@ This repository contains an exploratory data analysis (EDA) of a retail sales da
    ```
 3. Open the notebook in VS Code / Jupyter and run the cells.
 
-## Key findings (from the notebook)
+## Key findings
 - **Total revenue:** $456,000 across the dataset
 - **Date range:** Jan 2023 → Jan 2024
 - **Top categories by revenue:** Electronics, Clothing, Beauty
