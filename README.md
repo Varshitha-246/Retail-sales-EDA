@@ -29,7 +29,4 @@ This repository contains an exploratory data analysis (EDA) of a retail sales da
 - **Monthly revenue & profit trend**: core business insight
 - **Visualizations**: profit vs sales, category sales, correlations
 
-## 🔭 Next steps (optional)
-- Add a “Key insights” summary section to the notebook
-- Add breakdowns by category/region/product
-- Export final insights as a report (PDF/HTML)
+
